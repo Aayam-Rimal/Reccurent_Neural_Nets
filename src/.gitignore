@@ -1,1 +1,15 @@
 ToyRNN.ipynb
+.vector_cache/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg-info/
+dist/
+build/ 
+best_parameters.pth
+claude.ipynb
+new_test.ipynb
